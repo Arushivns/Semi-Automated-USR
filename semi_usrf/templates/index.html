@@ -1,0 +1,52 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}Semi Auto USR{% endblock %}
+
+{% block navbar %}<!--
+<div class="navbar navbar-fixed-top">
+  <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+</nav><br><br>
+</div>-->
+{% endblock %}
+
+{% block content %}
+  <div class="container">
+  <div class="jumbotron">
+    <h1>Generate Semi Automated USRs</h1>
+    <p>You are supposed to provide this application with the sentences whose USR(Universal Semantics Representations) you wish to generate
+    divided into their respective semantic groups.
+    </p>
+  </div>
+<!--jumbotron ends-->
+
+
+
+      <form action="{{url_for('index')}}" method="post" class="form form-horizontal" role="form">
+
+  <div class="form-group">
+   <!-- <label for="sent">Enter your sentence here:</label>
+    <input type="text" class="form-control" id="sent">-->
+  {{form.csrf_token}}
+    {{form.sentence.label}}
+    {{form.sentence}}
+
+
+  </div>
+
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>
+</div><!--container div ends-->
+
+
+
+{% endblock %}

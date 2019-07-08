@@ -1,0 +1,201 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'wuma_1'
+p4
+(lp5
+(lp6
+S'pron'
+p7
+aS'[- - m]'
+p8
+aS'you\n'
+p9
+aasS'hama_1'
+p10
+(lp11
+(lp12
+S'pron'
+p13
+aS'[- pl u]'
+p14
+aS'we\n'
+p15
+aasS'jo_1'
+p16
+(lp17
+(lp18
+S'rel_pron'
+p19
+aS'[- sg a]'
+p20
+aS'who\n'
+p21
+aasS've_1'
+p22
+(lp23
+(lp24
+S'pron'
+p25
+aS'[m pl a]'
+p26
+aS'they\n'
+p27
+aa(lp28
+S'pron'
+p29
+aS'[f pl a]'
+p30
+aS'they\n'
+p31
+aasS'waba_1'
+p32
+(lp33
+(lp34
+S'rel_pron'
+p35
+aS''
+p36
+aS'then\n'
+p37
+aasS'mEM_1'
+p38
+(lp39
+(lp40
+S'pron'
+p41
+aS'[- sg u]'
+p42
+aS'I\n'
+p43
+aasS'Apa_1'
+p44
+(lp45
+(lp46
+S'pron'
+p47
+aS'[- - m]'
+p48
+aS'you\n'
+p49
+aasS'jo_2'
+p50
+(lp51
+(lp52
+S'rel_pron'
+p53
+aS'[- pl a]'
+p54
+aS'who\n'
+p55
+aasS'jo_3'
+p56
+(lp57
+(lp58
+S'rel_pron'
+p59
+aS'[- sg a]'
+p60
+aS'which\n'
+p61
+aasS'jo_4'
+p62
+(lp63
+(lp64
+S'rel_pron'
+p65
+aS'[- pl a]'
+p66
+aS'which\n'
+p67
+aasS'yaha_1'
+p68
+(lp69
+(lp70
+S'pron'
+p71
+aS'[- sg a]'
+p72
+aS'this\n'
+p73
+aa(lp74
+S'pron'
+p75
+aS'[- pl a]'
+p76
+aS'these\n'
+p77
+aasS'jaba_1'
+p78
+(lp79
+(lp80
+S'rel_pron'
+p81
+ag36
+aS'when\n'
+p82
+aasS'vaha_1'
+p83
+(lp84
+(lp85
+S'pron'
+p86
+aS'[m sg a]'
+p87
+aS'he\n'
+p88
+aa(lp89
+S'pron'
+p90
+aS'[f sg a]'
+p91
+aS'she\n'
+p92
+aa(lp93
+S'pron'
+p94
+aS'[m pl a]'
+p95
+aS'they\n'
+p96
+aa(lp97
+S'pron'
+p98
+aS'[f pl a]'
+p99
+aS'they\n'
+p100
+aa(lp101
+S'pron'
+p102
+aS'[n sg a]'
+p103
+aS'it\n'
+p104
+aa(lp105
+S'pron'
+p106
+aS'[n pl a]'
+p107
+aS'they\n'
+p108
+aa(lp109
+S'pron'
+p110
+aS'[- sg a]'
+p111
+aS'that\n'
+p112
+aa(lp113
+S'pron'
+p114
+aS'[- pl a]'
+p115
+aS'those\n'
+p116
+aas.

@@ -1,0 +1,330 @@
+(dp0
+S'Hindi_anu'
+p1
+(lp2
+S'English_anu'
+p3
+aS'dev_csv'
+p4
+asS'WA'
+p5
+(lp6
+S'was'
+p7
+aS'[- - past]'
+p8
+asS'nA_cAhie'
+p9
+(lp10
+S'should_0'
+p11
+aS'[- - pres]'
+p12
+asS'0_rahA_hE'
+p13
+(lp14
+S'be_ing'
+p15
+aS'[- + pres]'
+p16
+asS'0_cukA_hogA'
+p17
+(lp18
+S'have_en'
+p19
+aS'[+ - fut]'
+p20
+asS'0_cukA_WA'
+p21
+(lp22
+S'had_en'
+p23
+aS'[+ - past]'
+p24
+asS'0_cukA_hE'
+p25
+(lp26
+S'have_en'
+p27
+aS'[+ - pres]'
+p28
+asS'yA_gayA_WA'
+p29
+(lp30
+S'had_been_en'
+p31
+aS'[+ - past]'
+p32
+asS'yA_nahIM'
+p33
+(lp34
+S'did_not_0'
+p35
+aS'[- - past]'
+p36
+asS'yA_hE'
+p37
+(lp38
+S'has_en'
+p39
+aS'[+ - pres]'
+p40
+asS'0_sakawA'
+p41
+(lp42
+S'can_0'
+p43
+aS'[- - pres]'
+p44
+asS'0_sakawA_WA'
+p45
+(lp46
+S'can_0'
+p47
+aS'[- - past]'
+p48
+asS'0_WA'
+p49
+(lp50
+S'was'
+p51
+aS'[- - past]'
+p52
+asS'0_liyA_WA'
+p53
+(lp54
+S'had_en'
+p55
+aS'[+ - past]'
+p56
+asS'wA_WA'
+p57
+(lp58
+S'usedto_0'
+p59
+aS'[- - past]'
+p60
+asS'nA_cAhawA_hE'
+p61
+(lp62
+S'want_to_0'
+p63
+aS'[- - pres]'
+p64
+asS'0'
+p65
+(lp66
+S'imper'
+p67
+aS'[- - pres]'
+p68
+asS'iegA'
+p69
+(lp70
+S'imper'
+p71
+aS'[- - pres]'
+p72
+asS'0_gayA_WA'
+p73
+(lp74
+S'had_en'
+p75
+aS'[+ - past]'
+p76
+asS'gA'
+p77
+(lp78
+S'will_0'
+p79
+aS'[- - fut]'
+p80
+asS'ne_ke_bAxa'
+p81
+(lp82
+S'ing'
+p83
+aS'[- + untensed]'
+p84
+asS'yA_gayA'
+p85
+(lp86
+S'got_en'
+p87
+aS'[- - past]'
+p88
+asS'AI_xI'
+p89
+(lp90
+S''
+p91
+aS'[+ - past]'
+p92
+asS'nA_hE'
+p93
+(lp94
+S'have_to_0'
+p95
+aS'[- - pres]'
+p96
+asS'0_sakA'
+p97
+(lp98
+S'could_0'
+p99
+aS'[- - pres]'
+p100
+asS'0_gayA'
+p101
+(lp102
+S'ed'
+p103
+aS'[- - past]'
+p104
+asS'0_rahA_hogA'
+p105
+(lp106
+S'shall_be_ing'
+p107
+aS'[- + fut]'
+p108
+asS'0_hE'
+p109
+(lp110
+S'be_ing'
+p111
+aS'[- + pres]'
+p112
+asS'0_legA'
+p113
+(lp114
+S'will_0'
+p115
+aS'[- - fut]'
+p116
+asS'0_liyA'
+p117
+(lp118
+S'ed'
+p119
+aS'[- - past]'
+p120
+asS'wA_hE'
+p121
+(lp122
+g65
+aS'[- - pres]'
+p123
+asS'0_sakawA_hE'
+p124
+(lp125
+S'can_0'
+p126
+aS'[- - pres]'
+p127
+asS'nA_se_pahale'
+p128
+(lp129
+S'ing'
+p130
+aS'[+ - untensed]'
+p131
+asS'yA_WA'
+p132
+(lp133
+S'had_en'
+p134
+aS'[+ - past]'
+p135
+asS'hE_nahIM'
+p136
+(lp137
+S'is_0_not'
+p138
+aS'[- - pres]'
+p139
+asS'yA_hogA'
+p140
+(lp141
+S'might_have_en'
+p142
+aS'[+ - pres]'
+p143
+asS'0_liyA_hogA'
+p144
+(lp145
+S'will_have_en'
+p146
+aS'[+ - fut]'
+p147
+asS'yA'
+p148
+(lp149
+S'ed'
+p150
+aS'[- - past]'
+p151
+asS'yA_gayA_hE'
+p152
+(lp153
+S'has_been_en'
+p154
+aS'[+ - pres]'
+p155
+asS'0_rahA_WA'
+p156
+(lp157
+S'was_ing'
+p158
+aS'[- + past]'
+p159
+asS'o'
+p160
+(lp161
+S'imper'
+p162
+aS'[- - pres]'
+p163
+asS'#wA_WA'
+p164
+(lp165
+S'ed'
+p166
+aS'[- - past]'
+p167
+asS'wA_huA'
+p168
+(lp169
+S'ing'
+p170
+aS'[- + untensed]'
+p171
+asS'0_xiyA'
+p172
+(lp173
+S'ed'
+p174
+aS'[- - past]'
+p175
+asS'yA_WA_nahIM'
+p176
+(lp177
+S'did_not_0'
+p178
+aS'[- - past]'
+p179
+asS'ie'
+p180
+(lp181
+S'imper'
+p182
+aS'[- - pres]'
+p183
+asS'hE'
+p184
+(lp185
+S'is'
+p186
+aS'[- - pres]'
+p187
+as.
