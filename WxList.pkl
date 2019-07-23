@@ -1,8 +1,14 @@
 (lp0
-S'vaha'
+S'usane'
 p1
-aS' nayI kiwAba'
+aS'xo'
 p2
-aS' KarIxA hE'
+aS'nayI'
 p3
+aS'kiwAbeM'
+p4
+aS'KarIxI'
+p5
+aS'hE'
+p6
 a.

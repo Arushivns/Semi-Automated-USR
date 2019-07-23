@@ -23,7 +23,7 @@ for i in "${OUTPUT[@]}"
 	do
 echo $i
 OUTPUT=($(python /home/arushi/PycharmProjects/mlpackage01/Cleanse.py $i| tr -d '[],'))
-#the above program removes extra quotes and punctuation marks.
+#the above program removes extra parenthesis and punctuation marks.
 echo ${OUTPUT[0]}
 # The following script will write individual words to morph analyser
 python /home/arushi/PycharmProjects/mlpackage01/Write_wx.py ${OUTPUT[0]}

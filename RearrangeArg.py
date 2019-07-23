@@ -18,16 +18,11 @@ else:
 import re
 #print(valf[1:-1])
 
-l=re.split("\)\(",valf[1:-1])
+l=re.split("\)\s\(",valf[1:-2])
 #print(l)
 print(l)
 import csv
 file="semi_usr_rep.csv"
-
-import pickle
-f=open("WxList.pkl","wb")
-pickle.dump(l,f)
-f.close()
 
 with open(file,'w') as usr:
     # creating a csv writer object
@@ -35,3 +30,16 @@ with open(file,'w') as usr:
 
     # writing the fields
     csvwriter.writerow(l)
+
+
+import pickle
+list_of_all_words=[]
+for i in l:
+    if len(i.split()) > 1:
+        for j in i.split():
+            list_of_all_words.append(j)
+    else:
+        list_of_all_words.append(i)
+f=open("WxList.pkl","wb")
+pickle.dump(list_of_all_words,f)
+f.close()

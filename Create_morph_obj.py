@@ -1,6 +1,6 @@
 import re
 import pickle
-
+import json
 #Class to store the information
 class Morph_info:
     word=""
@@ -10,6 +10,8 @@ class Morph_info:
         self.word=word
         self.root=root
         self.morph_dic=dict(moph_dic)
+
+
 
 def break_morph_info():
     f = open("jnk.morf", "r")#to read the file with morph analysis
@@ -23,7 +25,7 @@ def break_morph_info():
     #print(morph_stri)
     spilt_info = re.split("/", morph_stri)
     #print(spilt_info)
-    # list of morph objects
+    # dictionary of morph objects
     morph_objects = []
     for i in spilt_info:
         root = i[0:i.index("<")]
@@ -38,6 +40,10 @@ def break_morph_info():
         pickle.dump(morph_objects, mo)
     f.close()
     mo.close()
+
+
+
+
 
 
 #function calling
